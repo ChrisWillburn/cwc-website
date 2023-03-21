@@ -8,7 +8,7 @@ const ContactPage = () => (
   <Layout fullMenu>
     <article id="main">
       <header>
-        <h2>Contact Me</h2>
+        <h2>Test Contact Me</h2>
         {/*<p>Aliquam ut ex ut interdum donec amet imperdiet eleifend</p>*/}
       </header>
       <section className="wrapper style5">
