@@ -30,6 +30,7 @@ const config = require('./config');
           // exclude: ["/preview/**", "/do-not-track/me/too/"],
         },
       },
+    `gatsby-plugin-netlify`,
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'react-script-tag',
