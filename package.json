@@ -17,7 +17,7 @@
     "gatsby-remark-images": "^4.0.0",
     "gatsby-remark-relative-images": "^0.3.0",
     "gatsby-source-filesystem": "^3.0.0",
-    "gatsby-transformer-remark": "^6.7.0",
+    "gatsby-transformer-remark": "^4.3.3",
     "gatsby-transformer-sharp": "^5.7.0",
     "mailchimp-api-v3": "^1.15.0",
     "md5": "^2.3.0",
