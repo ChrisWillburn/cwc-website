@@ -94,6 +94,5 @@ const config = require('./config');
         ],
       },
     },
-    'gatsby-plugin-offline',
   ],
 })
