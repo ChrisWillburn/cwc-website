@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^5.8.0",
+    "gatsby": "^3.13.0",
     "gatsby-plugin-google-gtag": "^5.7.0",
     "gatsby-plugin-image": "^3.8.0",
     "gatsby-plugin-mailchimp": "^5.2.2",
@@ -25,11 +25,11 @@
     "md5": "^2.3.0",
     "netlify-lambda": "^2.0.16",
     "node-sass": "^6.0.0",
-    "react": "18.2.0",
+    "react": "16.14.0",
     "react-dom": "18.2.0",
     "react-helmet": "^6.1.0",
     "react-images": "^0.6.7",
-    "react-script-tag": "^2.0.0",
+    "react-script-tag": "^1.1.2",
     "react-scrollspy": "^3.4.3",
     "smoothscroll-polyfill": "^0.4.4"
   },
